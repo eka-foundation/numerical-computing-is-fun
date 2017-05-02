@@ -1,2 +1,7 @@
 # jupyter4kids
-A series of notebooks that help teach kids principles of programming, python and maths. 
+
+A placeholder for: 
+
+- notes (in this readme) 
+- notebooks
+- complimentary codes 
