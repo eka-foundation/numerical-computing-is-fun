@@ -10,6 +10,7 @@ Using Jupyter notebooks as the medium, this series provides an introduction to:
 - Numbers theory 
 - Prime numbers 
 - Data visualization
+- Deep learning
 
 ## Part 1 : Introduction
 
