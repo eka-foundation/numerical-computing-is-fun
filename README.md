@@ -27,3 +27,23 @@ What you will learn:
 - Functions may accept arguments (parameters) as input
 - Functions are computer processes, and arguments are what is being processed
 - It's very easy to create your own functions
+
+## Part 2 : Prime Numbers
+
+Continue learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-2.ipynb)
+
+What you will learn: 
+
+- Prime numbers relate with divisibility
+- Divisibility means that when one number is divided by other, the product is not a whole number
+- A prime number is any number that is divisible only by itself and 1
+- Binary means 0 and 1
+- Boolean logic is the binary language of computers
+- Python gives us an easy to use way to instruct computers
+- Boolean logic statements involve 'is', 'is not', 'and' and 'or' statements
+- Boolean statements can be joined together
+- Boolean statements always return either True or False as output
+- It's easy to perform computing operations with small numbers
+- The biggest prime number is a really big number
+- Very big numbers require vast networks of computers joined together
+
