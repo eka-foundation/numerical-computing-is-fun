@@ -46,14 +46,14 @@ What you will learn:
 - The biggest prime number is a really big number
 - Very big numbers require vast networks of computers joined together
 
-## Part 3 : Algoritms 
+## Part 3 : Algorithms 
 
 Continue learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-3.ipynb).
 
 What you will learn: 
 
-- Algoritms are like insides of factories
-- Algoritms take inputs and give outputs
+- Algorithms are like insides of factories
+- Algorithms take inputs and give outputs
 - Conditional statements are a tool for putting boolean logic in to action
 - The three conditional statements in Python are 'if', 'else' and 'elif'
 - Even just 'if' alone can be used to create a conditional statement
