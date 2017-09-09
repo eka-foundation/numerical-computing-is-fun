@@ -16,3 +16,14 @@ Using Jupyter notebooks as the medium, this series provides an introduction to:
 ## Part 1 : Introduction
 
 Start learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb).
+
+What you will learn: 
+
+- print() is the command to print something on the screen
+- Math operations are very easy to perform in Python
+- Python deals with numbers based on data types
+- In Python there are two numerical data types; int and float
+- Functions are powerful tools to easily perform various operations
+- Functions may accept arguments (parameters) as input
+- Functions are computer processes, and arguments are what is being processed
+- It's very easy to create your own functions
