@@ -12,3 +12,7 @@ Using Jupyter notebooks as the medium, this series provides an introduction to:
 - Numbers theory 
 - Prime numbers 
 - Data visualization
+
+## Part 1 : Introduction
+
+Start learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb).
