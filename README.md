@@ -1,4 +1,4 @@
-# NUMERICAL COMPUTING IS FUN
+<img width='500px' src='http://i.imgur.com/pa4vzNh.png'>
 
 ### A guide to principles of computer science and numerical computing for all ages
 
