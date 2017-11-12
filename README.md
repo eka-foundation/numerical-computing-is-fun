@@ -12,7 +12,7 @@ Using Jupyter notebooks as the medium, this series provides an introduction to:
 - Data visualization
 - Deep learning
 
-### Launch in Azure: 
+#### Launch in Azure (requires logging in): 
 
 <a href="https://notebooks.azure.com/import/gh/mikkokotila/jupyter4kids"><img src="https://notebooks.azure.com/launch.png" /></a>
 
