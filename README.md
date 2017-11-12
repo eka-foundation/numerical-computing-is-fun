@@ -1,5 +1,3 @@
-<a href="https://notebooks.azure.com/import/gh/mikkokotila/jupyter4kids"><img src="https://notebooks.azure.com/launch.png" /></a>
-
 <img width='500px' src='http://i.imgur.com/pa4vzNh.png'>
 
 As much as this series is created to help educate aspiring computer programmers and data scientists of all ages with no previous programming experience, after playing with computers and numbers for nearly 4 decades, I've also made this as a reminder for myself on how to have fun with computers and maths.
@@ -13,6 +11,10 @@ Using Jupyter notebooks as the medium, this series provides an introduction to:
 - Prime numbers 
 - Data visualization
 - Deep learning
+
+### Launch in Azure: 
+
+<a href="https://notebooks.azure.com/import/gh/mikkokotila/jupyter4kids"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 ## Part 1 : Introduction
 
