@@ -24,9 +24,15 @@ Using Jupyter notebooks as an interactive learning medium, this series provides 
 
 Use the link provided for each part below the corresponding title.
 
+#### Launch in Binder (no login required)
+
+Click the badge in the corresponding part below.
+
 ## Part 1 : Introduction
 
-Start learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb).
+Start learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb) or 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mikkokotila/jupyter4kids/master?filepath=%2Fnotebooks%2Fnumerical-computing-is-fun-1.ipynb)
 
 What you will learn:
 
@@ -41,7 +47,9 @@ What you will learn:
 
 ## Part 2 : Prime Numbers
 
-Continue learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-2.ipynb)
+Continue learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-2.ipynb). 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mikkokotila/jupyter4kids/master?filepath=%2Fnotebooks%2Fnumerical-computing-is-fun-2.ipynb)
 
 What you will learn:
 
@@ -62,7 +70,9 @@ What you will learn:
 
 Continue learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-3.ipynb).
 
-What you will learn:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mikkokotila/jupyter4kids/master?filepath=%2Fnotebooks%2Fnumerical-computing-is-fun-3.ipynb)
+
+What you will learn: 
 
 - Algorithms are like insides of factories
 - Algorithms take inputs and give outputs
@@ -78,6 +88,8 @@ What you will learn:
 ## Part 4: Building Algorithms
 
 Continue learning [here](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-4.ipynb).
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mikkokotila/jupyter4kids/master?filepath=%2Fnotebooks%2Fnumerical-computing-is-fun-4.ipynb)
 
 What you will learn: 
 
