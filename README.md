@@ -1,3 +1,5 @@
+[![Backers on Open Collective](https://opencollective.com/jupyter4kids/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/jupyter4kids/sponsors/badge.svg)](#sponsors) 
+
 <img width='500px' src='http://i.imgur.com/pa4vzNh.png'>
 
 As much as this series is created to help educate aspiring computer programmers and data scientists of all ages with no previous programming experience, after playing with computers and numbers for nearly 4 decades, I've also made this as a reminder for myself on how to have fun with computers and maths.
@@ -104,3 +106,33 @@ What you will learn:
 - Finding and dealing with bugs in your code
 - When to let bugs just be
 - Numbers theory is a great way to have fun with numbers!
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/undefined/undefinedgraphs/contributors"><img src="https://opencollective.com/jupyter4kids/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/jupyter4kids#backer)]
+
+<a href="https://opencollective.com/jupyter4kids#backers" target="_blank"><img src="https://opencollective.com/jupyter4kids/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/jupyter4kids#sponsor)]
+
+<a href="https://opencollective.com/jupyter4kids/sponsor/0/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/1/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/2/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/3/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/4/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/5/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/6/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/7/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/8/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/jupyter4kids/sponsor/9/website" target="_blank"><img src="https://opencollective.com/jupyter4kids/sponsor/9/avatar.svg"></a>
+
+
