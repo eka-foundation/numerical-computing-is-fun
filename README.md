@@ -59,7 +59,7 @@ What you will learn:
 - Binary means 0 and 1
 - Boolean logic is the binary language of computers
 - Python gives us an easy to use way to instruct computers
-- Boolean logic statements involve <code>is</code>, <code>is not</code>, <code>and</code> and <code>or< statements
+- Boolean logic statements involve <code>is</code>, <code>is not</code>, <code>and</code> and <code>or</code> statements
 - Boolean statements can be joined together
 - Boolean statements always return either True or False as output
 - It's easy to perform computing operations with small numbers
